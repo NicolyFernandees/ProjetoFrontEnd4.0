@@ -1,0 +1,15 @@
+.navbar a:hover {
+    background-color: rgb(123, 75, 168);
+    border-radius: 25px;
+    
+
+}
+
+.navbar a {
+    transition: color 500ms ease-in-out;
+}
+
+body {
+    background-image: url("https://wallpapers.com/images/high/purple-power-gojo-pfp-d70mnu3hsl3zcat4.webp");
+    background-size: 100%;
+}
